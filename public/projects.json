@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "title": "FireChat",
+      "category": "Live Site",
+      "image": "images/project-1.png",
+      "link": "https://f-chats.netlify.app/"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio",
+      "category": "Live Site",
+      "image": "images/project-2.png"
+    },
+    {
+      "id": 3,
+      "title": "Dream Pixel",
+      "category": "GitHub",
+      "image": "images/project-3.png",
+      "link" : "https://github.com/SakshiJogdand9011/Dream-Pixel"
+    },
+    {
+      "id": 5,
+      "title": "SBJ Bakery",
+      "category": "GitHub",
+      "image": "images/project-5.png",
+      "link" : "https://github.com/SakshiJogdand9011/SBJ-Bakery"
+    },
+    {
+      "id": 7,
+      "title": "DevBlogs",
+      "category": "Live Site",
+      "image": "images/project-7.png",
+      "link": "https://web-devblogs.netlify.app/"
+    }
+  ]
+  

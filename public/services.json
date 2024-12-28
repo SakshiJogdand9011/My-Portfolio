@@ -1,0 +1,14 @@
+
+[
+    {
+      "title": "Web design",
+      "icon": "/images/icon-design.svg",
+      "description": "Developing dynamic web applications using JavaScript and React."
+    },
+    {
+      "title": "Web development",
+      "icon": "/images/icon-dev.svg",
+      "description": "Developing dynamic web applications using JavaScript and React."
+    }
+  ]
+  

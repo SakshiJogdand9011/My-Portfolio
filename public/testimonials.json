@@ -1,0 +1,24 @@
+
+[
+    {
+      "name": "Priya Sharma",
+      "avatar": "/images/avatar-3.png",
+      "testimonial": "I’ve had the pleasure of working with Sakshi on a few projects, and her attention to detail always stands out. Even as a fresher, she’s quick to learn and delivers amazing results. Her dedication is unmatched!"
+    },
+    {
+      "name": "Ananya Singh",
+      "avatar": "/images/avatar-2.png",
+      "testimonial": "Sakshi’s creativity and commitment make her a standout frontend developer. Her journey as a fresher is inspiring, and she has a wonderful ability to turn ideas into visually appealing and functional designs."
+    },
+    {
+      "name": "Sneha Deshmukh",
+      "avatar": "/images/avatar-3.png",
+      "testimonial": "Sakshi’s enthusiasm for frontend development is contagious. Her skills in tools like React and Tailwind are impressive, and she’s constantly pushing herself to grow. She’s a great team player and a promising developer!"
+    },
+    {
+      "name": "Akshay Kulkarni",
+      "avatar": "/images/avatar-1.png",
+      "testimonial": "Sakshi has a natural talent for bringing creative ideas to life on the web. Whether it’s designing interfaces or optimizing functionality, she always goes above and beyond. Her passion for frontend development is truly inspiring!"
+    }
+  ]
+  
