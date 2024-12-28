@@ -7,8 +7,8 @@ import Service from "./Service";
 const servicesData = [
   {
     icon: "/images/icon-design.svg",
-    title: "Web design",
-    description: "The most modern and high-quality design made at a professional level."
+    title: "5+ Projects",
+    description: "Crafting Solutions, 5+ Projects Showcasing Problem-Solving Expertise"
   },
   {
     icon: "/images/icon-dev.svg",
@@ -41,9 +41,7 @@ const About = () => {
       <p>
       My expertise lies in building dynamic interfaces using modern JavaScript and React’s robust ecosystem. Whether it's developing scalable components, managing state efficiently, or integrating APIs, I thrive on solving challenges and bringing creative ideas to life.
       </p>
-      <p>
-      Based in Pune, Maharashtra, I’m excited to collaborate on innovative projects and contribute to the tech community. Let’s connect and create impactful web applications together!
-      </p>
+      
     </section>
 
 
