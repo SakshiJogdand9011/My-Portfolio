@@ -38,7 +38,7 @@ const Navbar = () => {
 
         <li className="navbar-item">
           <a
-            href="public/Sakshi_Jogdand_resume.pdf"
+            href="public/Sakshi_Jog_resume.pdf"
             className="navbar-link"
             data-nav-link
             download="Sakshi_Jogdand_resume.pdf"
