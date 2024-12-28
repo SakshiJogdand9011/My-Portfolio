@@ -10,7 +10,8 @@
       "id": 2,
       "title": "Portfolio",
       "category": "Live Site",
-      "image": "images/project-2.png"
+      "image": "images/project-2.png",
+      "link": "https://sakshi-profile.netlify.app/"
     },
     {
       "id": 3,
