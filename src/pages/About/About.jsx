@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 import Testimonial from "./Testimonial";
 import Service from "./Service";
 
-const servicesData = [
+const servicesData = [ 
   {
     icon: "/images/icon-design.svg",
     title: "5+ Projects",
